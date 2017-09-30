@@ -4,9 +4,7 @@ public class Form {
 
         int ab = 0, b = 100, x = 0;
 
-        for(; x < b; x++){
-            ab = ab + x;
-        }
+     
     }
 
 }
